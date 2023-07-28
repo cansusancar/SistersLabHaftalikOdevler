@@ -1,6 +1,11 @@
 package com.example.sisterslabhaftalikodevler.hafta2.odev1
 
-class GeometrikSekil {
+open class GeometrikSekil {
+    open fun alanHesapla(): Double {
+        return 0.0
+    }
 
-    open fun alan( {})
+    open fun cevreHesapla(): Double {
+        return 0.0
+    }
 }
