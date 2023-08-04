@@ -1,7 +1,8 @@
-package com.example.sisterslabhaftalikodevler
+package com.example.sisterslabhaftalikodevler.hafta1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.sisterslabhaftalikodevler.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
